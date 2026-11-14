@@ -21,7 +21,7 @@ Bring a macOS-style volume indicator to your Windows desktop with a frosted-glas
 
 ## Preview
 
-Screenshots and demonstration videos will be added soon.
+![macOS Volume HUD Preview](https://devpxxnpxn-triplepun.neocities.org/download.jpg)
 
 ## Requirements
 
@@ -33,9 +33,10 @@ Screenshots and demonstration videos will be added soon.
 1. Download `macos-volume-hud.wh.cpp` from this repository.
 2. Install and open Windhawk.
 3. Open the Windhawk editor.
-4. Import or paste the mod source code.
-5. Compile and enable the mod.
-6. Customize the settings to your preference.
+4. Create a new mod or import the source code.
+5. Paste the contents of `macos-volume-hud.wh.cpp`.
+6. Compile and enable the mod.
+7. Customize the settings to your preference.
 
 ## Configuration
 
@@ -59,10 +60,16 @@ Designed for Windows 11.
 
 Compatibility may vary depending on Windows version, display scaling, and system configuration.
 
+## Release
+
+**Current Version: v5.0.0**
+
+See [GitHub Releases](https://github.com/poonpunokok/macOS-Volume-HUD-Frosted-Glass-/releases) for updates and release notes.
+
 ## Project Structure
 
 ```text
-macos-volume-hud/
+macOS-Volume-HUD-Frosted-Glass/
 ├── macos-volume-hud.wh.cpp
 ├── README.md
 └── LICENSE
