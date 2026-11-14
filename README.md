@@ -1,8 +1,10 @@
+
+
 # macOS Volume HUD (Frosted Glass)
 
 A macOS-inspired volume HUD for Windows 11, built as a [Windhawk](https://windhawk.net/) mod.
 
-Bring a macOS-style volume indicator to your Windows desktop with a frosted-glass appearance, smooth animations, and a clean minimalist interface.
+Bring a macOS-style volume indicator to your Windows desktop with a frosted-glass appearance, smooth animations, and a clean, minimalist interface.
 
 ## Features
 
@@ -58,7 +60,7 @@ Bring a macOS-style volume indicator to your Windows desktop with a frosted-glas
 
 Designed for Windows 11.
 
-Compatibility may vary depending on Windows version, display scaling, and system configuration.
+Compatibility may vary depending on the Windows version, display scaling, and system configuration.
 
 ## Release
 
@@ -71,6 +73,7 @@ See [GitHub Releases](https://github.com/poonpunokok/macOS-Volume-HUD-Frosted-Gl
 ```text
 macOS-Volume-HUD-Frosted-Glass/
 ├── macos-volume-hud.wh.cpp
+├── macOS Volume HUD (Frosted Glass).bat
 ├── README.md
 └── LICENSE
 ```
@@ -97,3 +100,4 @@ It is not affiliated with, endorsed by, or sponsored by Apple Inc.
 
 **macOS Volume HUD (Frosted Glass)**  
 Made with ❤️ by DevPxxnpxn
+
